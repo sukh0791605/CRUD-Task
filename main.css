@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.contanier{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    
+}
+.nav-bar{
+    justify-content: center;
+    font-family: monospace;
+    font-size: xx-large;
+    overflow: auto;
+  
+}
+.m-nav{
+    list-style-type: none;
+    float:left;
+    padding: 10px 20px;
+
+}
+ 
+
